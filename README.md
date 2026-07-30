@@ -53,13 +53,13 @@ The dashboard includes:
 
 ### Dashboard Overview
 
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/Sales_Dashboard.png)
 
 ---
 
 ### Business Findings & Recommendations
 
-![Business Recommendations](images/business_recommendations.png)
+![Business Recommendations](images/KeyFindings.png)
 
 ---
 
